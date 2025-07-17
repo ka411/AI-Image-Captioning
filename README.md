@@ -1,11 +1,7 @@
-# AI Image Captioning 
+AI Image Captioning – CNN + LSTM
 
-This project uses a CNN (InceptionV3) for feature extraction and an LSTM network for generating captions for images.
+This project is an end-to-end deep learning solution for automatically generating captions for images. It combines Computer Vision and Natural Language Processing by using a Convolutional Neural Network (CNN) for feature extraction and an LSTM (Long Short-Term Memory) network for sequence generation.
 
-## Features
-- Feature extraction using pre-trained InceptionV3
-- LSTM based text generation
-- Streamlit app to upload images and get captions
 
 ## Installation
 ```bash
