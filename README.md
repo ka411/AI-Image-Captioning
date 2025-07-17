@@ -1,4 +1,4 @@
-# AI Image Captioning
+# AI Image Captioning 
 
 This project uses a CNN (InceptionV3) for feature extraction and an LSTM network for generating captions for images.
 
