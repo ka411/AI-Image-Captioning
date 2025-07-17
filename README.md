@@ -4,7 +4,7 @@ This project uses a CNN (InceptionV3) for feature extraction and an LSTM network
 
 ## Features
 - Feature extraction using pre-trained InceptionV3
-- LSTM-based text generation
+- LSTM based text generation
 - Streamlit app to upload images and get captions
 
 ## Installation
