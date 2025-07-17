@@ -25,6 +25,3 @@ python train.py
 streamlit run app.py
 ```
 
-## Future Improvements
-- Add tokenizer and vocabulary for real-time caption generation.
-- Switch to Transformer-based captioning for improved accuracy.
