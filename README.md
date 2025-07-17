@@ -10,6 +10,26 @@ Caption Generation: An LSTM network generates natural-language descriptions base
 
 Interactive Demo: A Streamlit web app lets users upload an image and get an AI-generated caption.
 
+#Tech Stack
+
+TensorFlow / Keras – Deep learning framework
+
+InceptionV3 – Pre-trained CNN for image feature extraction
+
+LSTM – For sequential text generation
+
+Streamlit – Interactive web-based demo
+
+Python – Core programming language
+
+#Key Features
+
+Clean and modular code structure (training, feature extraction, caption generation)
+
+Easily extendable to Transformer-based models for improved performance
+
+Includes a well-documented Jupyter Notebook for training
+
 
 ## Installation
 ```bash
