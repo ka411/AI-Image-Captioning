@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 ## Training
-Requires preprocessing of Flickr8k or MS COCO dataset before training.
+Requires preprocessing of the Flickr8k or MS COCO dataset before training.
 
 ```bash
 cd src
