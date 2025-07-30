@@ -31,7 +31,7 @@ Easily extendable to Transformer-based models for improved performance
 Includes a well-documented Jupyter Notebook for training
 
 
-## Installation
+##Installation
 ```bash
 pip install -r requirements.txt
 ```
@@ -48,4 +48,5 @@ python train.py
 ```bash
 streamlit run app.py
 ```
+
 
