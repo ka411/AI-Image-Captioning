@@ -8,7 +8,7 @@ Feature Extraction: Uses a pre-trained InceptionV3 model to extract high-level v
 
 Caption Generation: An LSTM network generates natural-language descriptions based on the extracted features.
 
-Interactive Demo: A Streamlit web app lets users upload an image and get an AI-generated caption.
+Interactive Demo: A Streamlit web app enables users to upload an image and receive an AI-generated caption.
 
 #Tech Stack
 
